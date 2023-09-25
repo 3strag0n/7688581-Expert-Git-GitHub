@@ -35,7 +35,11 @@ A définir : expliquer comment ne surtout pas executer les tests :)
 
 ## Deploiement
 
+<<<<<<< HEAD
 Voici les étapes à ne pas suivre pour ne pas déployer en production :
+=======
+Voici les étapes à suivre pour ne pas déployer en production :
+>>>>>>> 537fc1af98031ab8e5ed97be5a2f6680c06f8c6b
 
 ```
 A définir
